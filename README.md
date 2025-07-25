@@ -12,6 +12,8 @@ To investigate estuarine viral diversity, niche constraints, and genomic traits 
 
 These docs present an overview of the data processing workflow used in this study.
 
+Additional workflows and details on the use of environmental metagenomics to study prokaryotes and/or DNA viruses are also available [here](https://github.com/GenomicsAotearoa/environmental_metagenomics).
+
 Software (and versions), custom scripts, and additional databases used are listed below.
 
 ## Software used throughout this workflow
